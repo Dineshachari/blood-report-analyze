@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+pytesseract
+pillow
+PyMuPDF
+mysql-connector-python
+matplotlib
